@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Verify that user details can be updated successfully","3308","updateUser_TestNG","Default Suite","Thu Sep 12 01:59:17 IDT 2024","passed","Thu Sep 12 01:59:20 IDT 2024","tests.TestUpdateUser","API_RESTAssured_01","tests.TestUpdateUser","updateUser_TestNG"
